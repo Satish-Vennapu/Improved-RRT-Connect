@@ -1,12 +1,14 @@
 # Implementation of Improved RRT-Connect and Comparison with the Conventional RRT-Connect Algorithm
-Project - 05 (Final Project) for the course ENPM661 - Planning for Autonomous Robots
+
+## Demo: 
+![demo](./Output images/rrtconnect.gif)
 
 ## Team Members
 - Mothish Raj (mr2997@umd.edu)
 - Satish Vennapu (satish@umd.edu)
 
 ## Project Description
-Implement improved RRT-Connect and compare with the Conventional RRT-Connect Algorithm to find a path between the start and end point on a given map.
+Implemented improved RRT-Connect and compared it with the Conventional RRT-Connect Algorithm to find a path between the start and end points on a given map.
 
 
 
