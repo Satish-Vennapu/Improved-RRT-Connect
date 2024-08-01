@@ -1,7 +1,7 @@
 # Implementation of Improved RRT-Connect and Comparison with the Conventional RRT-Connect Algorithm
 
 ## Demo: 
-![demo](./Outputimages/rrtconnect.gif)
+![demo](./Output%20images/rrtconnect.gif)
 
 ## Team Members
 - Mothish Raj (mr2997@umd.edu)
